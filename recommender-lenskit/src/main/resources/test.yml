@@ -1,0 +1,5 @@
+ratings:
+  file: fakeratings_test.csv
+  format: csv
+  header: true
+  entity_type: rating

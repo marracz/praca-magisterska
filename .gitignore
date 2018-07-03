@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.csv
+*.txt
+*.xlsx
+recommender-lenskit/target
+recommender-mahout/target
+svdWyniki
+svd10folds
+scripts
+*.ods
