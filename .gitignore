@@ -1,6 +1,5 @@
 .idea
 *.iml
-*.csv
 *.txt
 *.xlsx
 recommender-lenskit/target
@@ -9,3 +8,4 @@ svdWyniki
 svd10folds
 scripts
 *.ods
+helpers
